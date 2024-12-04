@@ -1,0 +1,16 @@
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0-windows\E-Commerce.exe
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0-windows\E-Commerce.deps.json
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0-windows\E-Commerce.runtimeconfig.json
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0-windows\E-Commerce.dll
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\bin\Debug\net6.0-windows\E-Commerce.pdb
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E_Commerce.Form1.resources
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.csproj.GenerateResource.cache
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.AssemblyInfo.cs
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.dll
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\refint\E-Commerce.dll
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.pdb
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\E-Commerce.genruntimeconfig.cache
+C:\Users\orlandi.21200\Desktop\E-Commerce\E-Commerce\obj\Debug\net6.0-windows\ref\E-Commerce.dll
